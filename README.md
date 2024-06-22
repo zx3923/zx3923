@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=timeGradient&height=300&section=header&text=Welcome%20to%20My%20GitHub%20👋&fontSize=40&fontAlignY=50&fontAlign=50&height=180&fontColor=d6ace6)
 
 <!--
 **zx3923/zx3923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
