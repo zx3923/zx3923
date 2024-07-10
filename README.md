@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=timeGradient&height=300&section=header&text=Welcome%20to%20My%20GitHub%20👋&fontSize=40&fontAlignY=50&fontAlign=50&height=180&fontColor=d6ace6)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={zx3923})](https://solved.ac/{zx3923})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zx3923)](https://solved.ac/zx3923)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=3923)](https://github.com/eungyeole/velog-readme-stats)
 
