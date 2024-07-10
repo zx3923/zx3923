@@ -3,7 +3,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={zx3923})](https://solved.ac/{zx3923})
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zx3923)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=3923)](https://github.com/eungyeole/velog-readme-stats)
 
  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zx3923)](https://github.com/anuraghazra/github-readme-stats) -->
 
