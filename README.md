@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=timeGradient&height=300&section=header&text=Welcome%20to%20My%20GitHub%20👋&fontSize=40&fontAlignY=50&fontAlign=50&height=180&fontColor=d6ace6)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={zx3923})](https://solved.ac/{zx3923})   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zx3923)](https://github.com/anuraghazra/github-readme-stats)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={zx3923})](https://solved.ac/{zx3923})
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zx3923)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zx3923/zx3923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
